@@ -3,15 +3,15 @@ A multi Agent App that allows you decide your AI Agent and choose the LLM model 
 --- 
 
 ## Tech stack
--langchain-groq,
--langchain-community,
--python-dotenv,
--uvicorn,
--fastapi,
--pydantic,
--streamlit,
--langgraph,
--langchain-core.
+- langchain-groq,
+- langchain-community,
+- python-dotenv,
+- uvicorn,
+- fastapi,
+- pydantic,
+- streamlit,
+- langgraph,
+- langchain-core.
 
 ---
 

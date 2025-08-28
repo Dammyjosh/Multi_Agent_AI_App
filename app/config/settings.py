@@ -4,8 +4,8 @@ import os
 load_dotenv()
 
 class Settings:
-    GROQ_API_KEY = os.getenv("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")
-    TAVILY_API_KEY = os.getenv("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")
+    GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+    TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 
     ALLOWED_MODEL_NAMES =[
         "llama3-70b-8192",
